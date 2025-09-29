@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-m!&xhcq+%2jts0n+4cp##p*4tk&uji^ere!3tpcmstdi!i8$ef
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
+    'eldplanner-frontend.vercel.app',
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
