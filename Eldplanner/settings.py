@@ -27,7 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'https://eldplanner-frontend.vercel.app',
-    'https://eldplanner-backend-production.up.railway.app'
+    'https://eldplanner-backend-production.up.railway.app',
+    'localhost',
+    '127.0.0.1'
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
