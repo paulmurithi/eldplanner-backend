@@ -1,0 +1,34 @@
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Database files
+*.sqlite3
+db.sqlite3
+
+# Media and static files (generated or uploaded)
+media/
+static/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.swp
+*.bak
+
+# Environment variables and secrets
+.env
+secret_key.py
+local_settings.py
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
