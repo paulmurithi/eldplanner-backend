@@ -30,6 +30,8 @@ ALLOWED_HOSTS = [
     'https://eldplanner-backend-production.up.railway.app'
 ]
 
+CORS_ALLOW_ALL_ORIGINS = True
+
 # Application definition
 
 INSTALLED_APPS = [
