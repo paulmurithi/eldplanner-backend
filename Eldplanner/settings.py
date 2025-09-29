@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-m!&xhcq+%2jts0n+4cp##p*4tk&uji^ere!3tpcmstdi!i8$ef
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'eldplanner-frontend.vercel.app',
-    'eldplanner-backend-production.up.railway.app'
+    'https://eldplanner-frontend.vercel.app',
+    'https://eldplanner-backend-production.up.railway.app'
 ]
 
 # Application definition
